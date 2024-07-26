@@ -2963,6 +2963,12 @@ input, select, textarea {
 			width: 2em;
 			z-index: 1;
 		}
+		.mybutton{
+			margin-top: 9px;
+			width: 90px;
+			height: 60px;
+			padding: 20px;
+		}
 
 /* Spotlight */
 
